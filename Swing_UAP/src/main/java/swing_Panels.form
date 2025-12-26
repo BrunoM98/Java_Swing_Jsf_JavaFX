@@ -22,7 +22,7 @@
             </constraints>
             <properties>
               <font name="Calibri" size="18" style="0"/>
-              <text value="HELLO"/>
+              <text value="LOGIN"/>
             </properties>
           </component>
         </children>
